@@ -217,3 +217,7 @@ Do you want to continue? [Y/n]
 ```
 
 Finally, pressing _[ENTER]_ continues with the operation and the system packages are upgraded. 🎉
+
+**Note**: during package upgrades, sometimes you may be prompted to deal with
+configuration conflicts. If you get such prompts, always choose _keep the local
+version currently installed_.
